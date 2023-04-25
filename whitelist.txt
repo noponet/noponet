@@ -249,7 +249,6 @@ client.px-cloud.net
 secure.sndcdn.com
 sb.scorecardresearch.com
 cf-hls-media.sndcdn.com
-incels.is
 cdn.purpleads.io
 iframe.arkoselabs.com
 api.purpleads.io
