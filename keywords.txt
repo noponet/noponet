@@ -122,4 +122,3 @@ flickr
 github
 currentmillis.com
 huggingface
-twitter
